@@ -1,0 +1,6 @@
+- https://medium.com/codex/building-a-powerful-image-search-engine-for-your-pictures-using-deep-learning-16d06df10385
+- https://github.com/ManuelFay/ImageSearcher
+- https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/
+
+- https://pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/ [useful for image based searches, not text based]
+
