@@ -2,8 +2,6 @@
 
 <img src='workflow.drawio.png'></img>
 
-This is a professional and detailed README for the Jupyter notebook project, providing a comprehensive overview of its technical specifications, workflows, and implementation details.
-
 ## Table of Contents
 
 1.  [Project Overview](https://www.google.com/search?q=%231-project-overview)
