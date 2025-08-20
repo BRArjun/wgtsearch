@@ -1,6 +1,6 @@
 # CLIP-Powered Interactive Image Search
 
-<img src='workflow.drawio.png'></img>
+<img src='docs/workflow.drawio.png'></img>
 
 ## Table of Contents
 
