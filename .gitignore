@@ -1,1 +1,6 @@
-cred.txt
+__pycache__/
+app/faiss_index.bin
+app/metadata.json
+app/images/
+*.pyc
+.env

@@ -1,0 +1,9 @@
+# core libs
+torch
+transformers
+datasets
+faiss-cpu
+Pillow
+gradio
+tqdm
+
