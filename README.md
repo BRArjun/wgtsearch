@@ -90,6 +90,9 @@ The notebook relies on the following Python libraries:
   * `ipywidgets` and `IPython.display` (for the interactive interface)
   * `urllib`, `os`, `base64`, `io`, and `requests` (for data handling)
 
+##Demo Output
+<img width="1221" height="468" alt="image" src="https://github.com/user-attachments/assets/e62faac8-12ff-4091-8925-cb5d3752b5c2" />
+
 ## 9\. License
 
 This project is intended for educational and professional use, with the license to be determined by the author.
